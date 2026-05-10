@@ -9,7 +9,7 @@ Takes a protein-ligand complex PDB file where the two transformational ligands (
 ## Usage
 
 ```bash
-python generate_dihedral_csts.py <pdb_file> <ligandA_params_file> <ligandB_params_file> <atomPairConsrtaint_file> [output_filename]
+python generate_dihedral_csts.py <pdb_file> <ligandA_params_file> <ligandB_params_file> <atomPairConstraint_file> [output_filename]
 ```
 
 ## Testing
